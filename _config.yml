@@ -4,8 +4,8 @@ title: Ignas Laude
 description: Software Developer | Entrepreneur | Ethical Hacker
 
 baseurl: /laude #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
-email: #
+url: "https://laude.ml/" #custom url to be used instead of GitHub repository
+email: contact@laude.cloud
 
 # Pagination
 paginate: 4
